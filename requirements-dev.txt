@@ -3,7 +3,7 @@ codecov
 corner
 coverage
 dill
-emcee>=3.0.0
+emcee>=3.1.6
 jupyter_sphinx>=0.2.4
 matplotlib
 numdifftools
