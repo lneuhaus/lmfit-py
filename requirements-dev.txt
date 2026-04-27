@@ -4,7 +4,7 @@ corner
 coverage
 dill
 emcee>=3.0.0
-jupyter_sphinx>=0.2.4
+jupyter_sphinx>=0.5.3
 matplotlib
 numdifftools
 pandas
